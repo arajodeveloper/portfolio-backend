@@ -14,4 +14,4 @@ def hello_world():
         # now send an email 
         return str(request.form)
     else:
-        return 'LOL'
+        return 'it worked!'
